@@ -4,3 +4,4 @@
 matplotlib==3.11.0
 pytest==9.1.1
 mlflow==3.14.0
+httpx2
